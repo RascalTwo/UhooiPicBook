@@ -1,7 +1,7 @@
 # UhooiPicBook-iOS
 
 [![](https://github.com/uhooi/UhooiPicBook/workflows/CI/badge.svg)](https://github.com/uhooi/UhooiPicBook/actions?query=workflow%3ACI)
-[![License](https://img.shields.io/github/license/uhooi/UhooiPicBook)](https://github.com/uhooi/UhooiPicBook/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/RascalTwo/UhooiPicBook)](https://github.com/RascalTwo/UhooiPicBook/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthe_uhooi)](https://twitter.com/the_uhooi)
 
 ![Logo](./Docs/Logo.png)
